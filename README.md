@@ -22,3 +22,6 @@ Hi 👋, I'm Anish Jha
 </p>
 
 <br/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anishjha12&theme=solarized-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
