@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=0EEEF0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anish+Jha;Software+Developer;TypeScript+%7C+Java+%7C+Node.js+%7C+AWS" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">A passionate Software Engineer and a dedicated learner, based in Ghaziabad, India 🇮🇳</h3>
+<h3 align="center">A passionate Software Engineer and a dedicated learner, based in Noida, India 🇮🇳</h3>
 
 <br/>
 
